@@ -1,3 +1,2 @@
-# matplotlib
-Config files for my GitHub profile.
-
+# Matplotlib.
+#Check the pdf for the code.
